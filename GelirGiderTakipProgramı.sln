@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GelirGiderTakipAPI", "GelirGiderTakipAPI\GelirGiderTakipAPI.csproj", "{3223428F-59FC-49D1-9A1B-7B8BAECD6922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.API", "Core.API\Core.API.csproj", "{6DF613F3-859D-4742-99D9-21CA0D1F823E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.API", "Service.API\Service.API.csproj", "{87951F3D-588B-443B-AB8D-2A91F3FDCC2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.API", "Data.API\Data.API.csproj", "{46267B3B-50E0-4615-9CB9-D6B6DECA6423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity.API", "Entity.API\Entity.API.csproj", "{A7128734-3EF0-4BC7-8BB9-CA8E6C9EA577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{4B117292-C1FC-43AF-854A-29D1153C1C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3223428F-59FC-49D1-9A1B-7B8BAECD6922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3223428F-59FC-49D1-9A1B-7B8BAECD6922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3223428F-59FC-49D1-9A1B-7B8BAECD6922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3223428F-59FC-49D1-9A1B-7B8BAECD6922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF613F3-859D-4742-99D9-21CA0D1F823E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF613F3-859D-4742-99D9-21CA0D1F823E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF613F3-859D-4742-99D9-21CA0D1F823E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF613F3-859D-4742-99D9-21CA0D1F823E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87951F3D-588B-443B-AB8D-2A91F3FDCC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87951F3D-588B-443B-AB8D-2A91F3FDCC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87951F3D-588B-443B-AB8D-2A91F3FDCC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87951F3D-588B-443B-AB8D-2A91F3FDCC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46267B3B-50E0-4615-9CB9-D6B6DECA6423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46267B3B-50E0-4615-9CB9-D6B6DECA6423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46267B3B-50E0-4615-9CB9-D6B6DECA6423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46267B3B-50E0-4615-9CB9-D6B6DECA6423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7128734-3EF0-4BC7-8BB9-CA8E6C9EA577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7128734-3EF0-4BC7-8BB9-CA8E6C9EA577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7128734-3EF0-4BC7-8BB9-CA8E6C9EA577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7128734-3EF0-4BC7-8BB9-CA8E6C9EA577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B117292-C1FC-43AF-854A-29D1153C1C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B117292-C1FC-43AF-854A-29D1153C1C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B117292-C1FC-43AF-854A-29D1153C1C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B117292-C1FC-43AF-854A-29D1153C1C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1D810E6-1021-439E-AA18-FE8D72FA7A41}
+	EndGlobalSection
+EndGlobal
